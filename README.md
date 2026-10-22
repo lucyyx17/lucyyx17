@@ -2,7 +2,7 @@
 
 **lucyyx17/lucyyx17** is a ✨ _special_ ✨ repository because it's used for 3 ASIR modules. 
 
-- 🔭 I’m currently working on Certificado de Ciberseguridad de IBM SkillsBuild.
+- 🔭 I’m currently working on IBM SkillsBuild Cybersecurity Certificate.
 - ⚡ I’m currently learning how to make gluten-free pastry recipes come to life.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with Python,since I've just started looking into it.
