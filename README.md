@@ -1,14 +1,12 @@
 ## ¡¡Hola!! ❤️
 
-**lucyyx17/lucyyx17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+**lucyyx17/lucyyx17** is a ✨ _special_ ✨ repository because it's used for 3 ASIR modules. 
 
 - 🔭 I’m currently working on Certificado de Ciberseguridad de IBM SkillsBuild.
-- 🌱 I’m currently learning ...
+- ⚡ I’m currently learning how to make gluten-free pastry recipes come to life.
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: lucia2004rr@gmail.com
+- 🤔 I’m looking for help with Python,since I've just started looking into it.
+- 💬 Ask me about which languages are my fauvorite to speak and why :) .
+- 📫 How to reach me: lucia2004rr@gmail.com.
 - 😄 Pronouns: she/her.
-- ⚡ Fun fact: ...
+- 🌱 Fun fact: I love plants!
