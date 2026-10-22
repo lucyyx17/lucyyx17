@@ -6,7 +6,7 @@
 - ⚡ I’m currently learning how to make gluten-free pastry recipes come to life.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with Python,since I've just started looking into it.
-- 💬 Ask me about which languages are my fauvorite to speak and why :) .
+- 💬 Ask me about which languages are my favourite to speak and why :) .
 - 📫 How to reach me: lucia2004rr@gmail.com.
 - 😄 Pronouns: she/her.
 - 🌱 Fun fact: I love plants!
