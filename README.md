@@ -1,4 +1,4 @@
-<img width="2048" height="768" alt="Hechicera de código en la oficina nocturna" src="https://github.com/user-attachments/assets/"Retrato de elfa ciberhechicera en biblioteca mágica.png"/>
+<img width="2048" height="768" alt="Hechicera de código en la oficina nocturna" src="https://github.com/lucyyx17/lucyyx17/Retrato de elfa ciberhechicera en biblioteca mágica.png/>
 ## ¡¡Hola!! ❤️
 
 **lucyyx17/lucyyx17** is a ✨ _special_ ✨ repository because it's used for 3 ASIR modules. 
