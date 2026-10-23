@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on IBM SkillsBuild Cybersecurity Certificate.
 - ⚡ I’m currently learning how to make gluten-free pastry recipes come to life.
-- 👯 I’m looking to collaborate on Körtz Real State with more techs ;) .
+- 👯 I’m looking forward to collaborate on Körtz Real State with more techs ;) .
 - 🤔 I’m looking for help with Python,since I've just started looking into it.
 - 💬 Ask me about which languages are my favourite to speak and why :) .
 - 📫 How to reach me: lucia2004rr@gmail.com.
