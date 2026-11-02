@@ -1,4 +1,4 @@
-<img width="2048" height="768" alt="Hechicera de código en la oficina nocturna" src="./banner_bruja_github_2x_nitido.png"/>
+<img width="2048" height="768" alt="Hechicera de código en la oficina nocturna" src="./banner_bruja_github_2x_nitido (1) (1).png"/>
 
 # Lucía 
 ### Junior IT Systems Administrator | Cybersecurity & SOC Prospect
