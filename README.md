@@ -1,4 +1,4 @@
-<img width="2048" height="768" alt="Hechicera de código en la oficina nocturna" src="./banner_bruja_github_2x_nitido (1) (1).png"/>
+<img width="2048" height="768" alt="Hechicera de código en la oficina nocturna" src="./banner_bruja_github_2x_nitido.png"/>
 
 # Lucía 
 ### Junior IT Systems Administrator | Cybersecurity & SOC Prospect
@@ -33,7 +33,7 @@ Welcome to my GitHub! I am an IT professional and ASIR student based in Madrid, 
 | **Collaboration**| Körtz Real Estate Tech Project | 🤝 Open |
 
 ### 🌍 Languages
-![Spanish](https://img.shields.io/badge/Spanish-Native-101010?style=for-the-badge) ![English](https://img.shields.io/badge/English-C1-101010?style=for-the-badge) ![French](https://img.shields.io/badge/French-Advanced-101010?style=for-the-badge) ![Japanese](https://img.shields.io/badge/Japanese-Advanced-101010?style=for-the-badge)
+![Spanish](https://img.shields.io/badge/Spanish-Native-101010?style=for-the-badge) ![English](https://img.shields.io/badge/English-C1-101010?style=for-the-badge) ![French](https://img.shields.io/badge/French-B1-101010?style=for-the-badge) ![Japanese](https://img.shields.io/badge/Japanese-A1-101010?style=for-the-badge)
 
 ### ⚡ Beyond the Terminal
 When I'm not configuring servers, designing 2FA workflows, or analyzing networks, you can find me perfecting gluten-free pastry recipes, taking care of my plant collection, or solving the daily NYT Spelling Bee.
